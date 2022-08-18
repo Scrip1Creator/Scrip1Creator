@@ -1,0 +1,167 @@
+-- Script Made by wower2525 on roblox and my discord username is Wower#6548
+
+--rainbow friends script made by (wower#6548)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+local function callback(Text)
+ if Text == "Button1 text" then
+  print ("Answer")
+elseif Text == ("Button2 text") then
+ print ("Answer2")
+ end
+end
+ 
+local NotificationBindable = Instance.new("BindableFunction")
+NotificationBindable.OnInvoke = callback
+--
+game.StarterGui:SetCore("SendNotification",  {
+ Title = "(Rainbow friends Script)",
+ Text = "(Made by Wower#6548",
+ Icon = "";
+ Duration = 5;
+ Button1 = "Close";
+ Button2 = "";
+ Callback = NotificationBindable;
+})
+ 
+ 
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(246, 32, 202)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(270, 32, 186)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(306, 32, 193)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(331, 45, 217)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(353, 45, 208)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(370, 45, 163)
+-- Tp DROPOFF
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(407, 47, 63)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(485, 60, 18)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(486, 60, 12)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(435, 61, 113)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(433, 51, 190)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(433, 51, 198)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(445, 51, 181)
+-- Tp DROPOFF
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(335, 42, 141)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(311, 32, 75)
+-- Tp machine2
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(322, 32, 64)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(334, 32, 23)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(291, 31, 12)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(433, 51, 198)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(445, 51, 181)
+-- Tp DROPOFF
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(280, 33, 117)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(231, 32, 134)
+-- Tp machine-- Tp machine2
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(203, 32, 191)
+-- Tp machine
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(302, 13, 122)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(386, 9, 145)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(433, 51, 198)
+-- Tp machine
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(445, 51, 181)
+-- Tp Machine oh yeaahhhh
+wait(0.2)
+-------------------------------------- round 2 kinda
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(335, 45, 203)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(227, 32, 198)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(204, 32, 192)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(292, 33, 154)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(373, 42, 83)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+ 
+-------------------------------------- ROUND 3 IDK
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(362, 45, 150)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(435, 53, 202)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(411, 31, -7)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(277, 33, 134)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(198, 31, 189)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+-------------------------------------- finally next is the end for item grabber ngl
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(286, 31, 47)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(299, 8, 150)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(350, 48, 182)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(372, 45, 136)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-417, 18, 657)
+wait(0.2)
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-417, 18, 657)
